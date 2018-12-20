@@ -6,10 +6,7 @@ With GPS based augmented reality.
 [![AUR](https://img.shields.io/aur/license/yaourt.svg?style=plastic)](https://github.com/sahidur/Aloy/blob/master/LICENSE)
 
 
-
 ![](example/screen.jpg)
-## Installation
-
 
 ## Release History
 
